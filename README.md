@@ -1,2 +1,2 @@
-# javascript-vanille_2-game
- 
+# Window Paint clone coding
+html + css + js
